@@ -1,0 +1,399 @@
+@import url("../public/assets/css/fonts.css");
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption,
+footer, header, menu, nav, output, ruby, section,
+time, mark, audio, video {
+  vertical-align: baseline;
+  background: transparent;
+  font-size: 100%;
+  font: inherit;
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-size: 62.5%;
+  min-height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, menu, nav, section {
+  display: block;
+}
+
+audio {
+  vertical-align: baseline;
+  display: inline-block;
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+canvas,
+video,
+progress {
+  vertical-align: baseline;
+  display: inline-block;
+}
+
+template {
+  display: none;
+}
+
+a {
+  background-color: transparent;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+dfn {
+  font-style: italic;
+}
+
+small {
+  font-size: 80%;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+img {
+  border: 0;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+  overflow: auto;
+}
+
+code, kbd, samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  text-transform: none;
+  overflow: visible;
+  cursor: pointer;
+}
+
+input {
+  line-height: normal;
+}
+
+optgroup {
+  font-weight: bold;
+}
+
+select {
+  text-transform: none;
+}
+
+textarea {
+  overflow: auto;
+}
+
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  cursor: pointer;
+}
+
+button[disabled] {
+  cursor: default;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: border-box;
+  -moz-appearance: textfield;
+  box-sizing: border-box;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+fieldset {
+  padding: 0.35em 0.625em 0.75em;
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+}
+
+legend {
+  padding: 0;
+  border: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+ins {
+  background-color: #ff0000;
+  text-decoration: none;
+  color: #000000;
+}
+
+mark {
+  background-color: #ff0000;
+  font-style: italic;
+  font-weight: bold;
+  color: #000000;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+input, select {
+  vertical-align: middle;
+}
+
+.hide {
+  display: none;
+}
+
+.clear {
+  clear: both;
+}
+
+body {
+  background-color: #f0f9fe;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  color: #3a3a3a;
+}
+
+.content {
+  width: 600px;
+  height: 500px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  background-color: #fff;
+  -moz-box-shadow: 0 0 36px rgba(0,0,0,.17);
+  -webkit-box-shadow: 0 0 36px rgba(0,0,0,.17);
+  box-shadow: 0 0 36px rgba(0,0,0,.17);
+}
+
+.content .header {
+  height: 100px;
+  border-bottom: 1px dashed #ebebeb;
+  position: relative;
+}
+
+.content .header:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 155px;
+  height: 106px;
+  background: url(images/opacity-logo.png) no-repeat;
+}
+
+.logo {
+  background: url(images/logo.png) no-repeat;
+  width: 260px;
+  height: 53px;
+  display: block;
+  float: left;
+  text-indent: -9999px;
+  position: relative;
+  z-index: 2;
+  left: 30px;
+  top: 24px;
+}
+
+.content .header h3 {
+  float: right;
+  width: 130px;
+  height: 34px;
+  position: relative;
+  top: 36px;
+  left: 13px;
+  color: #fff;
+  font-family: "Roboto-B";
+  font-size: 14px;
+  text-transform: uppercase;
+  text-indent: 12px;
+  line-height: 34px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  background-color: #00a4ff;
+  -moz-box-shadow: inset -13px 0 0 #76ceff;
+  -webkit-box-shadow: inset -13px 0 0 #76ceff;
+  box-shadow: inset -13px 0 0 #76ceff;
+}
+
+.content .row {
+  width: 564px;
+  margin:  0 auto;
+}
+
+.forms h1 {
+  color: #717171;
+  font-family: "Roboto-B";
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-top: 16px;
+}
+
+.form-group {
+  position: relative;
+}
+
+.fg-2 {
+  width: 49%;
+  float: left;
+}
+
+.fg-2:nth-child(even) {
+  float: right;
+}
+
+.input {
+  box-sizing: border-box;
+  border: 0 none;
+  outline: none;
+  color: #717171;
+  font-family: "Roboto-R";
+  font-size: 13px;
+  border-bottom: 1px solid #e6e6e6;
+  width: 100%;
+  height: 50px;
+}
+
+.input:focus {
+  border-bottom: 1px solid #00a4ff;
+}
+
+.button {
+  box-sizing: border-box;
+  border: 0 none;
+  outline: none;
+  width: 100%;
+  height: 60px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  background-color: #00a3ff;
+  color: #fff;
+  font-family: "Roboto-B";
+  font-size: 17px;
+  text-shadow: 0 1px 0 rgba(0,0,0,.15);
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: #019af0;
+}
+
+.mt-m {
+  margin-top: 20px;
+}

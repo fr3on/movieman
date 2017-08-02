@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Calibrir";
+  src: url("../fonts/Calibri/calibri.eot");
+  src: url("../fonts/Calibri/calibri.eot#iefix") format("embedded-opentype"),
+  url("../fonts/Calibri/calibri.woff") format("woff"),
+  url("../fonts/Calibri/calibri.ttf") format("truetype"),
+  url("../fonts/Calibri/calibri.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KhmerUIr";
+  src: url("../fonts/KhmerUI/khmerui.eot");
+  src: url("../fonts/KhmerUI/khmerui.eot#iefix") format("embedded-opentype"),
+  url("../fonts/KhmerUI/khmerui.woff") format("woff"),
+  url("../fonts/KhmerUI/khmerui.ttf") format("truetype"),
+  url("../fonts/KhmerUI/khmerui.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KhmerUIb";
+  src: url("../fonts/KhmerUI/khmeruib.eot");
+  src: url("../fonts/KhmerUI/khmeruib.eot#iefix") format("embedded-opentype"),
+  url("../fonts/KhmerUI/khmeruib.woff") format("woff"),
+  url("../fonts/KhmerUI/khmeruib.ttf") format("truetype"),
+  url("../fonts/KhmerUI/khmeruib.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NexaLight";
+  src: url("../fonts/Nexa/NexaFreeLightwebfont.eot");
+  src: local("../fonts/Nexa/NexaFreeLightwebfont"), 
+  url("../fonts/Nexa/NexaFreeLightwebfont.woff") format('woff'), 
+  url("../fonts/Nexa/NexaFreeLightwebfont.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NexaBold";
+  src: url("../fonts/Nexa/nexafreeboldwebfont.eot");
+  src: url("../fonts/Nexa/nexafreeboldwebfont.eot#iefix") format("embedded-opentype"),
+  url("../fonts/Nexa/nexafreeboldwebfont.woff") format("woff"),
+  url("../fonts/Nexa/nexafreeboldwebfont.ttf") format("truetype"),
+  url("../fonts/Nexa/nexafreeboldwebfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nexab";
+  src: url("../fonts/Nexa/nexa2/nexab2.eot?#iefix") format('embedded-opentype'),  
+  url("../fonts/Nexa/nexa2/nexab2.woff") format('woff'), 
+  url("../fonts/Nexa/nexa2/nexab2.ttf")  format('truetype'), 
+  url("../fonts/Nexa/nexa2/nexab2.svg#.") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

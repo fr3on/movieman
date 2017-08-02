@@ -1,0 +1,424 @@
+[19-Jun-2016 07:43:29 UTC] PHP Fatal error:  Class 'App\Movie' not found in /home/drakula12/public_html/mdemo/app/Http/Controllers/Admin/MoviesController.php on line 26
+[19-Jun-2016 07:43:42 UTC] PHP Fatal error:  Class 'App\Movie' not found in /home/drakula12/public_html/mdemo/app/Http/Controllers/Admin/MoviesController.php on line 26
+[19-Jun-2016 07:43:44 UTC] PHP Fatal error:  Class 'App\Movie' not found in /home/drakula12/public_html/mdemo/app/Http/Controllers/Admin/MoviesController.php on line 26
+[24-Jun-2016 06:34:11 UTC] PHP Fatal error:  Class 'App\Movie' not found in /home/drakula12/public_html/mdemo/app/Http/Controllers/Admin/TvController.php on line 14
+[24-Jun-2016 06:34:22 UTC] PHP Fatal error:  Class 'App\Movie' not found in /home/drakula12/public_html/mdemo/app/Http/Controllers/Admin/TvController.php on line 14
+[24-Jun-2016 06:34:24 UTC] PHP Fatal error:  Class 'App\Movie' not found in /home/drakula12/public_html/mdemo/app/Http/Controllers/Admin/TvController.php on line 14
+[25-Jun-2016 08:14:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mdemo/storage/framework/views/ca4cf4baef84d82e1fcbb24df725479fa3c45d0c.php on line 490
+[25-Jun-2016 08:14:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mdemo/storage/framework/views/ca4cf4baef84d82e1fcbb24df725479fa3c45d0c.php on line 490
+[25-Jun-2016 08:15:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mdemo/storage/framework/views/ca4cf4baef84d82e1fcbb24df725479fa3c45d0c.php on line 490
+[25-Jun-2016 08:15:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mdemo/storage/framework/views/ca4cf4baef84d82e1fcbb24df725479fa3c45d0c.php on line 490
+[25-Jun-2016 08:30:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/drakula12/public_html/mdemo/storage/framework/views/ca4cf4baef84d82e1fcbb24df725479fa3c45d0c.php on line 205
+[25-Jun-2016 08:30:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/drakula12/public_html/mdemo/storage/framework/views/ca4cf4baef84d82e1fcbb24df725479fa3c45d0c.php on line 205
+[25-Jun-2016 09:03:52 UTC] PHP Parse error:  syntax error, unexpected ''persons'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/drakula12/public_html/mdemo/app/Http/Controllers/Def/IndexController.php on line 16
+[25-Jun-2016 09:03:54 UTC] PHP Parse error:  syntax error, unexpected ''persons'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/drakula12/public_html/mdemo/app/Http/Controllers/Def/IndexController.php on line 16
+[19-Jul-2016 20:57:31 UTC] PHP Warning:  require(/home/drakula12/public_html/movieman/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 20:57:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/drakula12/public_html/movieman/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 20:57:33 UTC] PHP Warning:  require(/home/drakula12/public_html/movieman/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 20:57:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/drakula12/public_html/movieman/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:10:56 UTC] PHP Warning:  require(/home/drakula12/public_html/movieman/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:10:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/drakula12/public_html/movieman/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:24:37 UTC] PHP Warning:  require(/home/drakula12/public_html/movieman/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:24:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/drakula12/public_html/movieman/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:31:28 UTC] PHP Warning:  require(/home/drakula12/public_html/movieman/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:31:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/drakula12/public_html/movieman/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:36:21 UTC] PHP Warning:  require(/home/drakula12/public_html/movieman/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/drakula12/public_html/movieman/index.php on line 22
+[19-Jul-2016 21:36:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/drakula12/public_html/movieman/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/drakula12/public_html/movieman/index.php on line 22
+[20-Jul-2016 12:39:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:40:34 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:40:37 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:41:07 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:41:10 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:41:29 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:41:31 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:41:52 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:41:56 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:42:17 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:42:32 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 86
+[20-Jul-2016 12:42:55 Asia/Tbilisi] PHP Fatal error:  Call to a member function Show() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 103
+[21-Jul-2016 00:05:51 Asia/Tbilisi] PHP Fatal error:  Call to a member function Credits() on null in /home/drakula12/public_html/movieman/storage/framework/views/525772627e0ae7f77d2877bbb6d0d1c632ae4222.php on line 84
+[21-Jul-2016 11:59:35 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 3
+[21-Jul-2016 12:05:39 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 14
+[21-Jul-2016 12:06:00 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 14
+[21-Jul-2016 12:06:13 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 14
+[21-Jul-2016 12:06:35 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:06:37 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:07:25 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:11:46 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:11:48 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:11:57 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:11:58 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:11:59 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:12:00 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:12:00 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 10
+[21-Jul-2016 12:12:11 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:12:12 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:12:13 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:12:14 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:12:15 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:12:16 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:12:23 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 9
+[21-Jul-2016 12:17:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 3
+[21-Jul-2016 12:17:52 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 3
+[21-Jul-2016 12:17:53 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 3
+[21-Jul-2016 12:17:54 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 3
+[21-Jul-2016 12:17:55 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/cab0142a350c991939898db7b75439aeed30ee4b.php on line 3
+[21-Jul-2016 12:46:54 Asia/Tbilisi] PHP Fatal error:  Call to a member function Credits() on null in /home/drakula12/public_html/movieman/storage/framework/views/525772627e0ae7f77d2877bbb6d0d1c632ae4222.php on line 84
+[22-Jul-2016 10:24:12 Asia/Tbilisi] PHP Fatal error:  Call to a member function Credits() on null in /home/drakula12/public_html/movieman/storage/framework/views/525772627e0ae7f77d2877bbb6d0d1c632ae4222.php on line 84
+[22-Jul-2016 11:13:04 Asia/Tbilisi] PHP Fatal error:  Call to a member function Credits() on null in /home/drakula12/public_html/movieman/storage/framework/views/525772627e0ae7f77d2877bbb6d0d1c632ae4222.php on line 84
+[23-Jul-2016 13:55:54 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::loadImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 13:55:58 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::loadImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 13:56:25 Asia/Tbilisi] PHP Fatal error:  Call to undefined function movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 13:56:26 Asia/Tbilisi] PHP Fatal error:  Call to undefined function movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 13:56:26 Asia/Tbilisi] PHP Fatal error:  Call to undefined function movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 14:00:20 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::getImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 14:01:00 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::getTrailers() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 74
+[23-Jul-2016 14:02:11 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTrailers() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[23-Jul-2016 14:02:13 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTrailers() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[23-Jul-2016 14:02:26 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTrailers() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[23-Jul-2016 14:02:27 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTrailers() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[23-Jul-2016 14:02:49 Asia/Tbilisi] PHP Fatal error:  Call to a member function getPoster() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[23-Jul-2016 14:04:53 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::getLatestMovie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[23-Jul-2016 14:05:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[23-Jul-2016 14:05:26 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[23-Jul-2016 14:07:45 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[23-Jul-2016 14:15:08 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[23-Jul-2016 14:52:52 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'App\Cast' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 91
+[23-Jul-2016 14:53:05 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'Cast' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 91
+[23-Jul-2016 14:53:24 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'App\Cast' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 91
+[23-Jul-2016 15:33:55 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'App\Backdrops' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 38
+[23-Jul-2016 15:35:15 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'App\Http\Controllers\Admin\App\Backdrops' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 38
+[23-Jul-2016 15:35:42 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Backdrops' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 38
+[23-Jul-2016 15:40:05 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:07 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:09 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:09 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:15 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:15 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:18 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:18 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:31 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:40:32 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:50:29 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:50:29 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:50:42 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:50:43 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:50:45 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 15:50:47 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 18:11:08 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\DB' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 38
+[23-Jul-2016 18:14:32 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 20:10:20 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 43
+[23-Jul-2016 20:26:43 Asia/Tbilisi] PHP Fatal error:  Class 'Input' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 40
+[23-Jul-2016 20:32:31 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:31 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:33 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:33 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:41 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:42 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:50 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:50 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:52 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:32:53 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 42
+[23-Jul-2016 20:37:13 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Input' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 39
+[28-Jul-2016 12:42:59 Asia/Tbilisi] PHP Fatal error:  Class 'Input' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 92
+[28-Jul-2016 15:05:19 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ',' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 59
+[29-Jul-2016 15:19:20 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::loadImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:19:22 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::loadImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:19:22 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::loadImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:19:23 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::loadImages() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:19:31 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::get() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:19:56 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::getTitle() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:19:57 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::getTitle() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:20:15 Asia/Tbilisi] PHP Fatal error:  Call to undefined function movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:20:16 Asia/Tbilisi] PHP Fatal error:  Call to undefined function movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:20:16 Asia/Tbilisi] PHP Fatal error:  Call to undefined function movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:20:23 Asia/Tbilisi] PHP Fatal error:  Call to undefined function Movie() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:25:30 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:27:20 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:27 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:41 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TMDB::getJSON() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:42 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:42 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:43 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:43 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:48 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 15:42:48 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 16:04:15 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTitle() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:04:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTitle() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:04:17 Asia/Tbilisi] PHP Fatal error:  Call to a member function getTitle() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:04:28 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::getTitle() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:04:29 Asia/Tbilisi] PHP Fatal error:  Call to undefined method TVShow::getTitle() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:04:56 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 148
+[29-Jul-2016 16:04:58 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 148
+[29-Jul-2016 16:04:59 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 148
+[29-Jul-2016 16:05:04 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 148
+[29-Jul-2016 16:05:45 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 148
+[29-Jul-2016 16:05:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[29-Jul-2016 16:05:49 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[29-Jul-2016 16:12:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function getMovieInfo() on null in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 132
+[29-Jul-2016 12:17:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 71
+[29-Jul-2016 12:17:52 UTC] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/data/Movie.php on line 71
+[29-Jul-2016 16:19:37 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 16:19:39 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 16:19:53 Asia/Tbilisi] PHP Fatal error:  Call to a member function first() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:20:01 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:24:13 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:27:23 Asia/Tbilisi] PHP Fatal error:  Call to a member function keyBy() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 77
+[29-Jul-2016 16:35:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 78
+[29-Jul-2016 16:35:18 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 78
+[29-Jul-2016 16:36:14 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:36:25 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:36:26 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:36:28 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 16:36:37 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::all() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 17:34:01 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:35:12 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:35:14 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:36:06 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 17:36:08 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 75
+[29-Jul-2016 17:36:40 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:36:42 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:36:42 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:36:48 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:36:59 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:37:00 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 76
+[29-Jul-2016 17:53:02 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 45
+[29-Jul-2016 18:00:25 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$dataSet' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 46
+[29-Jul-2016 18:00:26 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$dataSet' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 46
+[29-Jul-2016 18:02:18 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 48
+[29-Jul-2016 18:25:23 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 84
+[29-Jul-2016 18:35:40 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 77
+[29-Jul-2016 19:28:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 83
+[29-Jul-2016 19:28:42 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 83
+[29-Jul-2016 19:30:18 Asia/Tbilisi] PHP Fatal error:  Call to a member function getCredits() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 83
+[29-Jul-2016 19:35:44 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 98
+[30-Jul-2016 16:31:51 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Response' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 31
+[30-Jul-2016 16:31:59 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Response' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 31
+[30-Jul-2016 16:32:04 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Response' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 31
+[30-Jul-2016 16:37:52 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Movie::first() in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 29
+[30-Jul-2016 17:24:45 Asia/Tbilisi] PHP Fatal error:  Class 'TMDB' not found in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/helpers.php on line 10
+[30-Jul-2016 13:29:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/tmdb-api.php on line 396
+[30-Jul-2016 13:29:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/tmdb/tmdb-api.php on line 396
+[30-Jul-2016 17:35:48 Asia/Tbilisi] PHP Fatal error:  Class 'TMDB' not found in /home/drakula12/public_html/movieman/vendor/kryptonit3/tmdb-laravel/src/helpers.php on line 10
+[30-Jul-2016 18:00:23 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$movie' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 32
+[30-Jul-2016 18:00:50 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$movie' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 32
+[30-Jul-2016 18:23:55 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 37
+[30-Jul-2016 18:50:46 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[30-Jul-2016 18:50:46 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[30-Jul-2016 18:50:47 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[30-Jul-2016 18:50:54 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[30-Jul-2016 18:50:55 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[30-Jul-2016 18:50:56 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[30-Jul-2016 18:50:57 Asia/Tbilisi] PHP Fatal error:  Class 'Persons' not found in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 00:38:21 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 00:38:22 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 00:38:48 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 66
+[31-Jul-2016 00:39:13 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::first() in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 64
+[31-Jul-2016 01:19:11 Asia/Tbilisi] PHP Warning:  Uncaught exception 'ErrorException' with message 'Array to string conversion' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php:74
+Stack trace:
+#0 /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php(74): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Array to string...', '/home/drakula12...', 74, Array)
+#1 [internal function]: App\Http\Controllers\Admin\MoviesController->getData('tmdb', '1930')
+#2 /home/drakula12/public_html/movieman/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#3 /home/drakula12/public_html/movieman/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('getData', Array)
+#4 /home/drakula12/public_html/movieman/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\Admin\MoviesController in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 74
+[31-Jul-2016 01:19:11 Asia/Tbilisi] PHP Fatal error:  Object of class Person could not be converted to string in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 74
+[31-Jul-2016 01:28:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function getJSON() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 94
+[31-Jul-2016 02:06:15 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 76
+[31-Jul-2016 02:06:17 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 76
+[31-Jul-2016 02:25:04 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 74
+[31-Jul-2016 02:25:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 71
+[31-Jul-2016 02:25:26 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 71
+[31-Jul-2016 14:02:19 Asia/Tbilisi] PHP Fatal error:  Cannot use [] for reading in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 99
+[31-Jul-2016 14:08:27 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:08:29 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:08:39 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 14:08:40 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 14:09:11 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 74
+[31-Jul-2016 14:10:32 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on string in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 74
+[31-Jul-2016 14:11:07 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on string in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:12:06 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on string in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 14:12:44 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Illuminate\Http\JsonResponse as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:15:58 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Illuminate\Http\JsonResponse as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:16:00 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Illuminate\Http\JsonResponse as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:16:00 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Illuminate\Http\JsonResponse as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:16:05 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Illuminate\Http\JsonResponse as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:16:06 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Illuminate\Http\JsonResponse as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:18:28 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 14:18:29 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 14:19:44 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$showPerson' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 73
+[31-Jul-2016 14:29:06 Asia/Tbilisi] PHP Fatal error:  Call to a member function load() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:29:17 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::load() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:29:35 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::with() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 14:41:56 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$showMovies' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 30
+[31-Jul-2016 14:41:58 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$showMovies' (T_VARIABLE) in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 30
+[31-Jul-2016 14:56:17 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 90
+[31-Jul-2016 15:21:27 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 89
+[31-Jul-2016 15:21:28 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 89
+[31-Jul-2016 15:21:33 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Person as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 89
+[31-Jul-2016 15:21:44 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Person::first() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 88
+[31-Jul-2016 15:22:18 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on string in /home/drakula12/public_html/movieman/app/Http/routes.php on line 89
+[31-Jul-2016 15:23:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on array in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/MoviesController.php on line 82
+[31-Jul-2016 15:36:22 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 15:36:29 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 15:39:58 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:41:39 Asia/Tbilisi] PHP Fatal error:  Call to a member function getName() on array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 88
+[31-Jul-2016 15:41:47 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 15:41:48 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 86
+[31-Jul-2016 15:41:55 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:42:18 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:42:19 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:42:20 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:42:36 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:42:38 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:42:57 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 15:43:57 Asia/Tbilisi] PHP Fatal error:  Cannot use object of type Movie as array in /home/drakula12/public_html/movieman/app/Http/routes.php on line 87
+[31-Jul-2016 16:05:59 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 47
+[31-Jul-2016 17:05:54 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 89
+[31-Jul-2016 17:05:56 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/drakula12/public_html/movieman/app/Http/routes.php on line 89
+[02-Sep-2016 10:50:04 Asia/Tbilisi] PHP Fatal error:  Class 'App\Users' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/UsersController.php on line 14
+[02-Sep-2016 14:17:23 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:17:24 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:17:25 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:17:26 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:18:48 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:23:51 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:23:52 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:23:53 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:23:54 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:25:03 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:25:05 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:25:05 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:07 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:08 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:28 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:29 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:30 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:31 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:31 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:32 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:26:32 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:36:29 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 15
+[02-Sep-2016 14:38:08 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ',' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 13
+[02-Sep-2016 14:38:11 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ',' in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 13
+[02-Sep-2016 14:38:31 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 13
+[02-Sep-2016 14:38:33 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 13
+[07-Sep-2016 12:39:14 Asia/Tbilisi] PHP Fatal error:  Call to a member function take() on array in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 87
+[07-Sep-2016 12:39:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function take() on array in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 87
+[12-Sep-2016 18:47:33 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 140
+[12-Sep-2016 18:53:08 Asia/Tbilisi] PHP Fatal error:  Call to a member function first() on array in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 140
+[12-Sep-2016 18:53:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 140
+[12-Sep-2016 18:54:00 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 140
+[12-Sep-2016 18:54:02 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 140
+[12-Sep-2016 18:54:17 Asia/Tbilisi] PHP Fatal error:  Call to undefined method stdClass::get() in /home/drakula12/public_html/movieman/storage/framework/views/3e62a1e9a3a2b04807f980a72d16a906538aac4b.php on line 140
+[13-Sep-2016 13:40:57 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Def\Auth' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/CommentsController.php on line 14
+[13-Sep-2016 13:43:32 Asia/Tbilisi] PHP Fatal error:  Call to undefined method Illuminate\Routing\Redirector::url() in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/CommentsController.php on line 20
+[13-Sep-2016 17:08:03 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/c99d5bb5823e19aefb43fd8f53c61b9fff06e8b7.php on line 112
+[15-Sep-2016 15:34:40 Asia/Tbilisi] PHP Fatal error:  Call to undefined function post() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 57
+[15-Sep-2016 15:34:43 Asia/Tbilisi] PHP Fatal error:  Call to undefined function post() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 57
+[15-Sep-2016 15:34:51 Asia/Tbilisi] PHP Fatal error:  Call to undefined function post() in /home/drakula12/public_html/movieman/app/Http/routes.php on line 57
+[15-Sep-2016 16:21:40 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/AuthController.php on line 49
+[15-Sep-2016 16:21:41 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/AuthController.php on line 49
+[15-Sep-2016 16:40:09 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Controller' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/SocialiteController.php on line 8
+[15-Sep-2016 16:40:41 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Controller' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/SocialiteController.php on line 8
+[15-Sep-2016 16:40:47 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Controller' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/SocialiteController.php on line 8
+[15-Sep-2016 17:35:22 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/SocialiteController.php on line 20
+[15-Sep-2016 18:56:19 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Socialite' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/AuthController.php on line 47
+[15-Sep-2016 18:56:36 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Auth' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Auth/AuthController.php on line 62
+[17-Sep-2016 14:48:28 Asia/Tbilisi] PHP Fatal error:  Class 'App\Favs' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 102
+[17-Sep-2016 14:48:29 Asia/Tbilisi] PHP Fatal error:  Class 'App\Favs' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 102
+[17-Sep-2016 15:06:17 Asia/Tbilisi] PHP Fatal error:  Class 'App\DB' not found in /home/drakula12/public_html/movieman/app/Movies.php on line 23
+[17-Sep-2016 15:08:42 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 103
+[17-Sep-2016 15:10:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:10:22 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:10:23 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:13:39 Asia/Tbilisi] PHP Fatal error:  Class 'App\DB' not found in /home/drakula12/public_html/movieman/app/Likes.php on line 14
+[17-Sep-2016 15:15:49 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:32 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:34 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:35 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:35 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:47 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:16:48 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:17:02 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:17:04 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:17:04 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:17:05 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:17:47 Asia/Tbilisi] PHP Fatal error:  Call to a member function Sorted() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:19:29 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'App\Likes' in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 102
+[17-Sep-2016 15:19:31 Asia/Tbilisi] PHP Fatal error:  Undefined constant 'App\Likes' in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 102
+[17-Sep-2016 15:19:48 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ',' in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 102
+[17-Sep-2016 15:27:03 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ',' in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 102
+[17-Sep-2016 15:39:36 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Def\Auth' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 103
+[17-Sep-2016 15:39:37 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Def\Auth' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 103
+[17-Sep-2016 15:39:37 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Def\Auth' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 103
+[17-Sep-2016 15:39:38 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Def\Auth' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Def/IndexController.php on line 103
+[17-Sep-2016 15:39:45 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:39:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[17-Sep-2016 15:39:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/movieman/storage/framework/views/ad5546f5eca0b4fb580c0f3cf47926cd97f3311a.php on line 8
+[18-Sep-2016 00:06:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 21
+[18-Sep-2016 00:06:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 21
+[18-Sep-2016 00:08:02 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 13
+[18-Sep-2016 00:08:20 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 30
+[18-Sep-2016 00:08:50 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 26
+[18-Sep-2016 00:08:51 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 26
+[18-Sep-2016 00:08:52 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on null in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 26
+[18-Sep-2016 00:11:12 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\App\User' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 36
+[18-Sep-2016 00:11:15 Asia/Tbilisi] PHP Fatal error:  Class 'App\Http\Controllers\Admin\App\User' not found in /home/drakula12/public_html/movieman/app/Http/Controllers/Admin/AdminController.php on line 36
+[04-Oct-2016 18:38:51 Asia/Tbilisi] PHP Fatal error:  Class 'App\Tv' not found in /home/drakula12/public_html/mm/app/Http/Controllers/Def/IndexController.php on line 15
+[04-Oct-2016 18:42:24 Asia/Tbilisi] PHP Fatal error:  Class 'App\Tv' not found in /home/drakula12/public_html/mm/app/Http/Controllers/Admin/AdminController.php on line 14
+[04-Oct-2016 18:42:48 Asia/Tbilisi] PHP Fatal error:  Class 'App\Tv' not found in /home/drakula12/public_html/mm/app/Http/Controllers/Admin/AdminController.php on line 14
+[04-Oct-2016 18:47:14 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:47:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:48:06 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:48:08 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:48:55 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:49:01 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 53
+[04-Oct-2016 18:49:07 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 53
+[04-Oct-2016 18:50:05 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:51:47 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 18:51:49 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 150
+[04-Oct-2016 19:06:40 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 44
+[04-Oct-2016 19:06:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/d9767d46eb485e57a4ea76bd3a2af3054c1083e3.php on line 44
+[04-Oct-2016 20:44:57 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[04-Oct-2016 20:45:00 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[04-Oct-2016 22:22:15 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[04-Oct-2016 22:34:19 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on array in /home/drakula12/public_html/mm/storage/framework/views/4301ab7520e48eee5b1195b3563745c7384bc999.php on line 73
+[04-Oct-2016 22:38:20 Asia/Tbilisi] PHP Fatal error:  Call to a member function take() on array in /home/drakula12/public_html/mm/storage/framework/views/4301ab7520e48eee5b1195b3563745c7384bc999.php on line 53
+[04-Oct-2016 22:39:50 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '(', expecting ']' in /home/drakula12/public_html/mm/app/Http/Controllers/Def/IndexController.php on line 106
+[04-Oct-2016 22:40:02 Asia/Tbilisi] PHP Fatal error:  Call to a member function Credits() on string in /home/drakula12/public_html/mm/storage/framework/views/4301ab7520e48eee5b1195b3563745c7384bc999.php on line 28
+[04-Oct-2016 22:40:26 Asia/Tbilisi] PHP Fatal error:  Call to a member function take() on array in /home/drakula12/public_html/mm/storage/framework/views/4301ab7520e48eee5b1195b3563745c7384bc999.php on line 53
+[05-Oct-2016 13:10:39 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[05-Oct-2016 13:55:40 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mm/storage/framework/views/6359aa62b96a46d48b09c767c3475d47a123693c.php on line 50
+[05-Oct-2016 13:56:25 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mm/storage/framework/views/6359aa62b96a46d48b09c767c3475d47a123693c.php on line 50
+[05-Oct-2016 14:53:54 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[05-Oct-2016 16:08:42 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '{' in /home/drakula12/public_html/mm/storage/framework/views/a18ad10d80f1dcef64ec766fb8b210bdb2e5e46d.php on line 4
+[05-Oct-2016 16:15:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[06-Oct-2016 09:18:11 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[06-Oct-2016 10:25:57 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on string in /home/drakula12/public_html/mm/storage/framework/views/a18ad10d80f1dcef64ec766fb8b210bdb2e5e46d.php on line 10
+[06-Oct-2016 10:27:33 Asia/Tbilisi] PHP Fatal error:  Call to a member function get() on string in /home/drakula12/public_html/mm/storage/framework/views/a18ad10d80f1dcef64ec766fb8b210bdb2e5e46d.php on line 10
+[06-Oct-2016 11:26:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[06-Oct-2016 13:44:44 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[06-Oct-2016 13:45:09 Asia/Tbilisi] PHP Fatal error:  Call to a member function MME() on null in /home/drakula12/public_html/mm/storage/framework/views/55bd426e0ba0358eb05cc91e7f4bce6c71b49134.php on line 39
+[06-Oct-2016 14:53:01 Asia/Tbilisi] PHP Fatal error:  Class 'App\Tv' not found in /home/drakula12/public_html/mm/app/Http/Controllers/Def/IndexController.php on line 47
+[06-Oct-2016 14:54:24 Asia/Tbilisi] PHP Fatal error:  Class 'App\Tv' not found in /home/drakula12/public_html/mm/app/Http/Controllers/Def/IndexController.php on line 47
+[06-Oct-2016 15:35:06 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/drakula12/public_html/mm/storage/framework/views/07c808688ba68efc3ddca676458a143777cddb70.php on line 137
+[06-Oct-2016 15:38:33 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '(' in /home/drakula12/public_html/mm/storage/framework/views/07c808688ba68efc3ddca676458a143777cddb70.php on line 127
+[06-Oct-2016 15:40:35 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '$rate' (T_VARIABLE) in /home/drakula12/public_html/mm/storage/framework/views/07c808688ba68efc3ddca676458a143777cddb70.php on line 127
+[06-Oct-2016 22:29:57 Asia/Tbilisi] PHP Fatal error:  Call to a member function delete() on null in /home/drakula12/public_html/mm/app/Http/Controllers/Admin/PagesController.php on line 57
+[07-Oct-2016 13:08:26 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ''N/A'' (T_CONSTANT_ENCAPSED_STRING) in /home/drakula12/public_html/mm/app/Movies.php on line 76
+[07-Oct-2016 14:26:16 Asia/Tbilisi] PHP Fatal error:  Call to a member function delete() on null in /home/drakula12/public_html/mm/app/Http/Controllers/Def/IndexController.php on line 140
+[07-Oct-2016 14:26:28 Asia/Tbilisi] PHP Fatal error:  Call to a member function delete() on null in /home/drakula12/public_html/mm/app/Http/Controllers/Def/IndexController.php on line 140
+[07-Oct-2016 15:09:18 Asia/Tbilisi] PHP Fatal error:  Call to undefined function website() in /home/drakula12/public_html/mm/storage/framework/views/6359aa62b96a46d48b09c767c3475d47a123693c.php on line 45
+[07-Oct-2016 15:09:23 Asia/Tbilisi] PHP Fatal error:  Call to undefined function website() in /home/drakula12/public_html/mm/storage/framework/views/6359aa62b96a46d48b09c767c3475d47a123693c.php on line 45
+[12-Oct-2016 16:16:12 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected ';' in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 71
+[12-Oct-2016 16:29:10 Asia/Tbilisi] PHP Fatal error:  Call to a member function chunk() on array in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:29 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:29 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:31 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:32 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:33 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:34 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:48 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:29:49 Asia/Tbilisi] PHP Fatal error:  Can't use method return value in write context in /home/drakula12/public_html/movieman/storage/framework/views/d639033a88fe5a64b30e4cbcaa40c5253f5f24e0.php on line 69
+[12-Oct-2016 16:46:23 Asia/Tbilisi] PHP Fatal error:  Call to undefined function App\orderBy() in /home/drakula12/public_html/movieman/app/Movies.php on line 41
